@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otis-ke
-- 👀 I’m interested in learning  software engineering 
-- 🌱 I’m currently learning java and software engineering 
+- 👀 I’m a software engineering from kenya 
+- 🌱 I’m currently on web development  and software and ui/ux
 - 💞️ I’m looking to collaborate on  projects  
 - 📫 How to reach me 😀
 vincentotiskisia@gmail.com
