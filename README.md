@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @otis-ke
-- 👀 I’m a software engineering from kenya 
+- 👀 I’m a software engineer from kenya 
 - 🌱 I’m currently on web development  and software and ui/ux
 - 💞️ I’m looking to collaborate on  projects  
 - 📫 How to reach me 😀
