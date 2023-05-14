@@ -6,7 +6,7 @@
 vincentotiskisia@gmail.com
 +254769212618
    website https://otis-ke.github.io/otiswebsite.github.io/
-   C   Python   HTML   CSS  JavaScript   NodeJS   django    flask  github  Linux  vi   SQL   nginx   Git
+   C   Python   HTML   CSS  JavaScript   NodeJS     flask  github  Linux  vi   SQL   nginx   Git
 <!---
 otis-ke/otis-ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
