@@ -10,7 +10,7 @@ vincentotiskisia@gmail.com
 <!---
 otis-ke/otis-ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 ![Aysuarex_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
 <h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm Suara Ayomide</h1>
@@ -78,3 +78,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuarex&show_icons=true&locale=en&layout=compact" alt="aysuarex" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysuarex&show_icons=true&locale=en" alt="aysuarex" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuarex&" alt="aysuarex" /></p>
+->
