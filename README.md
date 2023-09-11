@@ -1,3 +1,5 @@
+![Cover](ile.png)
+
 # Hi there, I'm Vincent Otis 👋
 
 I'm a passionate software engineer from Kenya 🌍. My interests span across web development, software engineering, and UI/UX design.
@@ -26,8 +28,10 @@ I'm a passionate software engineer from Kenya 🌍. My interests span across web
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 📊 My GitHub Stats:
-<!-- Insert your GitHub stats here using a tool like https://github.com/anuraghazra/github-readme-stats -->
+ https://github.com/otis-ke/github-readme-stats 
 
 🚀 Let's collaborate and build amazing things together!
 
 🌐 Check out my projects below 👇
+
+GitHub: [otis-ke](https://github.com/otis-ke)
