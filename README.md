@@ -7,7 +7,8 @@ I'm a passionate software engineer from Kenya 🌍. My interests span across web
 🚀 Here's a bit about me:
 - 💼 Currently, I'm working on web development projects.
 - 🌱 I'm always learning and exploring new technologies.
-- 👥 I'm open to collaborations on exciting projects.
+- 👥 I'm open to collaborations on exciting projects.![cover2](https://github.com/otis-ke/otis-ke/assets/110315228/8be9ae84-63ac-4e77-baa1-e55619f6082a)
+
 
 📫 You can reach me via:
 - Email: vincentotiskisia@gmail.com
