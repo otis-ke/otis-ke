@@ -1,4 +1,4 @@
-![Cover](ile.png)
+![Cover](cover2.png)
 
 # Hi there, I'm Vincent Otis 👋
 
