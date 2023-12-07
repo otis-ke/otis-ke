@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vincent Otis 😜 👋 
 
-I'm a passionate software engineer from Kenya 🇰🇪🌍. My interests span across web development, software engineering, and UI/UX design.
+I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span across web development, software engineering, and UI/UX design.
 
 🚀 Here's a bit about me:
 - 💼 Currently, I'm working on web development projects.
