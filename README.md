@@ -15,7 +15,7 @@ I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span a
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/vincent-otis-1315b0235)
 - Website: [Check out my portfolio](https://otis-ke.github.io/otiswebsite.github.io/)
 
-🌟 My Tech Stack:sgvsd
+🌟 My Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
