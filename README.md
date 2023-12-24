@@ -35,4 +35,4 @@ I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span a
 
 🌐 Check out my projects below 👇
 
-GitHub: [otis-ke](https://github.com/otis-ke)
+GitHub: [otis-ke](https://otis-ke.github.io/portfolio/)
