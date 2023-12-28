@@ -1,7 +1,6 @@
 ![cover2](https://github.com/otis-ke/otis-ke/assets/110315228/8be9ae84-63ac-4e77-baa1-e55619f6082a)
 
-# Hi there, I'm Vincent Otis 😜 👋 hbgfhbgfbvbbvdvdvbvbfvfgvfsvvdvdvdcdcvdvdcv
-
+# Hi there, I'm Vincent Otis 😜 👋 
 I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span across web development, software engineering, and UI/UX design.
 
 🚀 Here's a bit about me:
