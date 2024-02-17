@@ -12,7 +12,7 @@ I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span a
 📫 You can reach me via:
 - Email: vincentotiskisia@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/vincent-otis-1315b0235)
-- Website: [Check out my portfolio](https://otis-ke.github.io/otiswebsite.github.io/)
+- Website: [Check out my portfolio](https://otis-ke.github.io/portfolio/)
 
 🌟 My Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
