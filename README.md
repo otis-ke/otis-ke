@@ -7,7 +7,7 @@ I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span a
 - 💼 Currently, I'm working on web development projects.
 - 🌱 I'm always learning and exploring new technologies.
 - 👥 I'm open to collaborations on exciting projects.
-h
+
 
 📫 You can reach me via:
 - Email: [email](vincentotiskisia@gmail.com)
