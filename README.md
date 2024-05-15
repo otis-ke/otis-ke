@@ -34,7 +34,7 @@ I'm a passionate software engineer from Kenya 🇰🇪 🌍. My interests span a
 
 🚀 Let's collaborate and build amazing things together!
 
-🌐 Check out my projects below 👇
+🌐 Check out my projects below 👇 
 
 
 
